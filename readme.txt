@@ -22,4 +22,6 @@ gcc adminMySQL.c -o adminMySQL -l mysqlclient
 if you don't have password in your SQL #adminMySQL ignore -p option or use directly
 ./adminMysql -u root
 
+all query has been saved in new file named history_MySQL.txt
+
 good luck
