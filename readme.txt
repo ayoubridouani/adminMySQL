@@ -1,7 +1,7 @@
 hello everyone ..
 you have all permission to use my project :)
 
-Description : with MySQL admin you can do a total administration on your all databases
+Description : with adminMySQL  you can do a total administration on your all databases
 
 Configuration:
 
